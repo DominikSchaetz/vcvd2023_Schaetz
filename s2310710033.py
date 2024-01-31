@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 import argparse
 
-#formula source: http://www.dbux.ch/physics/bremsweg.html
+
 #code information source: https://www.w3schools.com/python
 
 
